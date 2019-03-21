@@ -11,3 +11,9 @@
 扩展功能：
 １实现文件互传
 ２实现群组通信
+
+扩展功能并未实现！
+
+USAGE:
+gcc xxx.c -o xxx -lpthread 编译两个C文件生成server和client
+先启动server，再启动client，client参数是server ip地址
